@@ -10,7 +10,7 @@ This repository publishes my personal OpenPGP public key for secure communicatio
 | Key owner | Tom Metherell |
 | Email | t.metherell@ucl.ac.uk |
 | Key type | OpenPGP |
-| Primary fingerprint | 700B E067 6ABA 32E1 BF0E 2274 F9B3 39C2 B78A CF4E |
+| Primary fingerprint | EA23 3D07 0B85 BD18 76BD D254 EB89 6045 15ED D749 |
 | Created | 2026-10-10 |
 | Expires | 2027-07-07 |
 | Status | Active |
